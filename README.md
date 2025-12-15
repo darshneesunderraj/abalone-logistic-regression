@@ -12,7 +12,7 @@ Target definition:
 - 0 → Rings < 10 (young)
 - 1 → Rings ≥ 10 (old)
 
-- https://www.kaggle.com/code/ryanholbrook/binary-classification/data
+dataset link : https://www.kaggle.com/code/ryanholbrook/binary-classification/data
 
 ## Methodology
 - One-hot encoding for categorical feature (Type)
